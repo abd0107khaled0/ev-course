@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "email": "abdo@gmail.com",
+      "phone": "00000000000000",
+      "password": "123",
+      "password_confirmation": "123",
+      "first_name": "dAlaaFRirsfe",
+      "last_name": "sadeefef",
+      "username": "d",
+      "gender": "ذكر",
+      "dob": "2023-04-18",
+      "id": 1
+    }
+  ],
+  "users_inform": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "important": [
+        "import5",
+        "import4",
+        "import3",
+        "import8",
+        "import7"
+      ]
+    }
+  ],
+  "puied_user": [
+    {
+      "puied_user_id": 1,
+      "puied_video_id": 1
+    },
+    {
+      "puied_user_id": 1,
+      "puied_video_id": 2
+    },
+    {
+      "puied_user_id": 1,
+      "puied_video_id": 3
+    }
+  ],
+  "videos": [
+    {
+      "name": "p1.mp4",
+      "id": 1,
+      "status": true,
+      "numberOfC": 5,
+      "Clock": 5,
+      "discount": "20%",
+      "data": "2/2/2002",
+      "nameC": "Hello world",
+      "statusOF": "جديد",
+      "lang": "الغه العربيه",
+      "user_exp": "خبير التسويق",
+      "user_name": "عبدالرحمن خالد ",
+      "imgs": "https://placehold.co/300x300",
+      "inform": "احترف التسويق الرقمى",
+      "training": [
+        "مقدمه 1",
+        "مقدمه 2",
+        "مقدمه 3"
+      ]
+    },
+    {
+      "name": "p1.mp4",
+      "id": 2,
+      "status": false,
+      "numberOfC": 5,
+      "Clock": 5,
+      "imgs": "https://placehold.co/300x300",
+      "discount": "20%",
+      "data": "2/2/2002",
+      "nameC": "Hello world",
+      "statusOF": "قم بالشراء",
+      "lang": "الغه العربيه",
+      "inform": "احترف التسويق الرقمى",
+      "user_name": "خبير التسويق",
+      "training": [
+        "مقدمه 1",
+        "مقدمه 2",
+        "مقدمه 3"
+      ]
+    }
+  ],
+  "myImportant": [
+    "import1",
+    "import2",
+    "import3",
+    "import4",
+    "import5",
+    "import6",
+    "import7",
+    "import8",
+    "import4",
+    "import5",
+    "import6",
+    "import7",
+    "import8",
+    "import4",
+    "import5",
+    "import6",
+    "import7",
+    "import8",
+    "import7",
+    "import8",
+    "import4",
+    "import5",
+    "import6",
+    "import7",
+    "import8",
+    "import4",
+    "import5",
+    "import6",
+    "import7",
+    "import8",
+    "import9"
+  ]
+}
